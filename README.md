@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Prajwal 👋
 
-<!--
-**prajwalnmokashi03/prajwalnmokashi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year BCA student building full-stack web applications with React, Next.js, and Firebase.
 
-Here are some ideas to get you started:
+- 🌱 Currently strengthening my fundamentals in software engineering
+- 🛠 Building real-world projects and learning through hands-on work
+- 🎯 Preparing for software development internships (2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Featured Projects
+- **CineScope** – Full-stack movie & TV discovery app (Next.js, Firebase)
+- **Taskly** – Task management web app (React)
+
+Pinned below are my main projects.
