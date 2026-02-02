@@ -9,5 +9,6 @@ I'm a final-year BCA student building full-stack web applications with React, Ne
 ### 🔗 Featured Projects
 - **CineScope** – Full-stack movie & TV discovery app (Next.js, Firebase)
 - **Taskly** – Task management web app (React)
+- **XER0‑bot** – A local, offline‑first desktop AI chat app powered by Ollama.
 
 Pinned below are my main projects.
