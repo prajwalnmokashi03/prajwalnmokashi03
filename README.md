@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/prajwalmokashi">
   <img src="https://img.shields.io/badge/LinkedIn-prajwalmokashi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://prajwal-mokashi.vercel.app">
+<a href="https://prajwalmokashi.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-prajwal--mokashi.vercel.app-00F2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:prajwalmokashi03@gmail.com">
@@ -96,8 +96,6 @@ custom Liquid Glass glassmorphism UI system.
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Nearby API](https://img.shields.io/badge/-Nearby_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
 [![Website](https://img.shields.io/badge/Website-00F2FF?style=flat-square&logo=vercel&logoColor=black)](https://piratelink.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prajwalnmokashi03)
 
@@ -131,8 +129,6 @@ Ollama and open-source LLMs.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prajwalnmokashi03)
 
 </td>
@@ -168,9 +164,8 @@ Deployed on Vercel.
           Offline P2P Android app · Zero internet required
 
 [2026-06] 🌐 Deployed DevFolio
-          prajwal-mokashi.vercel.app
+          prajwalmokashi.vercel.app
 
-[2026-06] 📊 LinkedIn: 500+ connections · 727 followers
 ```
 
 ---
@@ -208,7 +203,7 @@ Deployed on Vercel.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalmokashi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F2FF?style=for-the-badge&logo=vercel&logoColor=black)](https://prajwal-mokashi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F2FF?style=for-the-badge&logo=vercel&logoColor=black)](https://prajwalmokashi.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalmokashi03@gmail.com)
 
 <br/>
