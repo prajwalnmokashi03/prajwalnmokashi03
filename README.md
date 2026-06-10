@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-prajwalmokashi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://prajwalmokashi.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-prajwal--mokashi.vercel.app-00F2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-prajwalmokashi.vercel.app-00F2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:prajwalmokashi03@gmail.com">
   <img src="https://img.shields.io/badge/Email-prajwalmokashi03@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -57,7 +57,6 @@ val prajwal = Developer(
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![XML](https://img.shields.io/badge/XML_Layouts-FF6B35?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 
 **Web**
 
@@ -69,13 +68,11 @@ val prajwal = Developer(
 
 **Design**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
 
 **AI & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
